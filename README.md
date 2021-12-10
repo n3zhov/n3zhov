@@ -33,7 +33,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 #### Currently learning
-![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logoColor=white)
 
 ### Projects
 
