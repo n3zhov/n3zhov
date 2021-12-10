@@ -1,5 +1,5 @@
 # n3zhov
-> You can find me in almost any of social networks by this nickname
+> You can find me almost in any of social networks by this nickname
 
 ### Hello there, I'm Nikita - aka n3zhov
 
