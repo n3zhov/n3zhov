@@ -1,16 +1,106 @@
-### Hi there 👋
+# n3zhov
+> You can find me in almost any of social networks by this nickname
 
-<!--
-**n3zhov/n3zhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there, I'm Nikita - aka n3zhov
 
-Here are some ideas to get you started:
+[![Telegram contact][telegram_badge]][telegram_link]
+[![VK profile][vk_badge]][vk_link]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm a 3rd year BSc in CS and C++ developer
+
+- 🕸 Now I am at 3rd course of MAI
+- 🏆 I am taking part with team in opencups
+- 📚 Currently taking modern C++ develop cources, also love to learn about different tools which making my life easier (If I only knew about Conan year ago...)
+
+
+
+### Languages and Tools
+#### Currently in use
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kubuntu](https://img.shields.io/badge/Kubuntu-0078D6?style=for-the-badge&logo=kde&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white)
+![CLion](https://img.shields.io/badge/Clion-white?style=for-the-badge&logo=clion&logoColor=black&labelColor=016839)
+![Rider](https://img.shields.io/badge/Rider-white?style=for-the-badge&logo=rider&logoColor=white&labelColor=e15d37)
+#### Familiar with
+![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=yellow&labelColor=007ec6)
+![Latex](https://img.shields.io/badge/latex-F2F4F9?style=for-the-badge&logo=latex&logoColor=grey&labelColor=F2F4F9)
+![PyCharm](https://img.shields.io/badge/Pycharm-white?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=6c3)
+![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+#### Currently learning
+![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white)
+
+### Projects
+
+<ul>
+
+<li><details>
+  <summary> Coursera final projects</summary>
+  
+  <!--START_SECTION:Coursera-->
+  Coursera projects have written on C++
+  
+  1. [Events-DB][coursera_h1] Learned more about unit testing and implemented simple DB, which can tokenize queries for specific requests (like select all event before 12.12.2020). Also deepened my knowledge in termes of smart pointers.
+  2. [TextIndexing][coursera_h2]. Create simple text search server with Inverted Index and implemented multi-threading queries processing with simple C++ instruments like async and lock_guard.
+  <!--END_SECTION:Coursera-->
+  
+  </details>
+  </li>
+  
+<li><details>
+  <summary> Operation Systems</summary>
+  
+  <!--START_SECTION:os-->
+  Operation Systems labs have written on C for Linux.
+  
+  1. [Prcoess][os_h2]. fork and pipe are never gonna be what they were before
+  2. [Threads][os_h3]. Multi-threading naive text search (Ironic).
+  3. [File mapping][os_h4]. Multi-process communication using filemapping
+  4. [Libraries][os_h5]. Create 2 libraries and 2 programms, which use these libraries.
+  5. [ZMQPP][os_h6-8]. Implement a distributed system for asynchronous request processing.
+  6. [KP][os_kp]. Created server of messages with zmqpp library.
+  <!--END_SECTION:os-->
+  
+  </details>
+  </li>
+
+  <li><details>
+  <summary> Discrete Analysis</summary>
+  
+  <!--START_SECTION:DA-->
+  Discrete Analysis
+  
+  1. [Labs][DA_labs]. Different algorithms implementantions on c++. Used bash+python to write local checker for some labs.
+  2. [KP][DA_KP]. Point-Location-Problem. (TODO: Write normal Readme and refactor code).
+  <!--END_SECTION:DA-->
+  
+  </details>
+  </li>
+</ul>
+
+[telegram_link]: https://t.me/n3zhov
+[telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
+
+[vk_link]: https://vk.com/n3zhov
+[vk_badge]: https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white
+
+
+[coursera_h1]: https://github.com/n3zhov/Events-DB
+[coursera_h2]: https://github.com/n3zhov/TextIndexing
+
+
+[os_h2]: https://github.com/n3zhov/OS_labs/tree/master/lab2
+[os_h3]: https://github.com/n3zhov/OS_labs/tree/master/lab3
+[os_h4]: https://github.com/n3zhov/OS_labs/tree/master/lab4
+[os_h5]: https://github.com/n3zhov/OS_labs/tree/master/lab5
+[os_h6-8]: https://github.com/n3zhov/OS_labs/tree/master/lab6-8
+[os_kp]: https://github.com/n3zhov/KP_OS
+
+[DA_labs]: https://github.com/n3zhov/Diskran
+[DA_KP]: https://github.com/n3zhov/KP_Diskran
+
