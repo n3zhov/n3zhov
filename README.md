@@ -58,7 +58,7 @@
   <!--START_SECTION:os-->
   Operation Systems labs have written on C for Linux.
   
-  1. [Prcoess][os_h2]. fork and pipe are never gonna be what they were before
+  1. [Processes][os_h2]. fork and pipe are never gonna be what they were before
   2. [Threads][os_h3]. Multi-threading naive text search (Ironic).
   3. [File mapping][os_h4]. Multi-process communication using filemapping
   4. [Libraries][os_h5]. Create 2 libraries and 2 programms, which use these libraries.
