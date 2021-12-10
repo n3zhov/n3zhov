@@ -21,8 +21,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Kubuntu](https://img.shields.io/badge/Kubuntu-0078D6?style=for-the-badge&logo=kde&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white)
-![CLion](https://img.shields.io/badge/Clion-white?style=for-the-badge&logo=clion&logoColor=black&labelColor=016839)
-![Rider](https://img.shields.io/badge/Rider-white?style=for-the-badge&logo=rider&logoColor=white&labelColor=e15d37)
+![CLion](https://img.shields.io/badge/Clion-black?style=for-the-badge&logo=clion&logoColor=black)
+![Rider](https://img.shields.io/badge/Rider-black?style=for-the-badge&logo=rider&logoColor=white)
 #### Familiar with
 ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=yellow&labelColor=007ec6)
