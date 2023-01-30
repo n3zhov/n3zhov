@@ -7,38 +7,42 @@
 [![VK profile][vk_badge]][vk_link]
 
 
-## I'm a 3rd year BSc in CS and C++ developer
+## I'm a 4th year BSc in CS and C++ developer
 
-- 🕸 Now I am at 3rd course of MAI
+- 🕸 Now I am at 4th course of MAI
 - 🏆 I am taking part with team in opencups
 - 📚 Currently taking modern C++ develop cources, also love to learn about different tools which making my life easier (If I only knew about Conan year ago...)
-
 
 
 ### Languages and Tools
 #### Currently in use
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kubuntu](https://img.shields.io/badge/Kubuntu-0078D6?style=for-the-badge&logo=kde&logoColor=white)
+![Archlinux](https://img.shields.io/badge/Arch-0078D6?style=for-the-badge&logo=archlinux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white)
-![CLion](https://img.shields.io/badge/Clion-white?style=for-the-badge&logo=clion&logoColor=black)
-![Rider](https://img.shields.io/badge/Rider-white?style=for-the-badge&logo=rider&logoColor=black)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-02569B?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-00599C?style=for-the-badge&logo=pytorch&logoColor=orange)
 #### Familiar with
 ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-007ec6?style=for-the-badge&logo=python&logoColor=yellow)
 ![Latex](https://img.shields.io/badge/latex-F2F4F9?style=for-the-badge&logo=latex&logoColor=grey&labelColor=F2F4F9)
-![PyCharm](https://img.shields.io/badge/Pycharm-white?style=for-the-badge&logo=pycharm&logoColor=black)
 ![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-#### Currently learning
-![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logoColor=white)
-
+![Flask](https://img.shields.io/badge/flask-F2F4F9?style=for-the-badge&logo=flask&logoColor=black)
 ### Projects
 
 <ul>
-
+<li><details>
+  <summary> Userver project</summary>
+  
+  <!--START_SECTION:Userver-->
+  Project written on C++ with userver and boost frameworks being used
+  
+  1. [Files-DB][Userver_files] Created back-end app for managing files on cloud server. Created unit tests, configured CI.
+  <!--END_SECTION:Userver-->
+  
+  </details>
+  </li>
 <li><details>
   <summary> Coursera final projects</summary>
   
@@ -89,7 +93,7 @@
 [vk_link]: https://vk.com/n3zhov
 [vk_badge]: https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white
 
-
+[Userver_files]: https://github.com/n3zhov/yet_another_disk
 [coursera_h1]: https://github.com/n3zhov/Events-DB
 [coursera_h2]: https://github.com/n3zhov/TextIndexing
 
